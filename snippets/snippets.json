@@ -1,0 +1,28 @@
+{
+  "sclComponent": {
+    "prefix": "sclComponent",
+    "body": [
+      "<script>",
+      "import Vue from 'vue'",
+      "import Component from 'vue-class-component'",
+      "",
+      "@Component({",
+      "  name: '$1',",
+      "  props: {",
+      "  },",
+      "})",
+      "export default class extends Vue {",
+      "  render() {",
+      "    return (",
+      "      <div>$0</div>",
+      "    )",
+      "  }",
+      "}",
+      "</script>",
+      "",
+      "<style lang=\"scss\">",
+      "</style>"
+    ],
+    "description": "Complete component template"
+  }
+}

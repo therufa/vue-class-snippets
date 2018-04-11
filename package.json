@@ -1,0 +1,25 @@
+{
+    "name": "vue-class-snippets",
+    "displayName": "vue-class-snippets",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "therufa",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+				"language": "vue",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			}
+        ]
+    }
+}

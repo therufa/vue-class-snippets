@@ -1,7 +1,7 @@
 {
     "name": "vue-class-snippets",
     "displayName": "vue-class-snippets",
-    "description": "",
+    "description": "Provides code snippets for vue combined with jsx",
     "version": "0.0.1",
     "publisher": "therufa",
     "engines": {
